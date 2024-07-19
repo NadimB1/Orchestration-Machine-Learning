@@ -1,0 +1,7 @@
+bs4
+matplotlib
+statsmodels
+plotly
+scikit-learn
+fastapi
+uvicorn

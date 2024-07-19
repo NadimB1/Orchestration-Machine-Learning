@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+joblib
+fastparquet
+pandas
+plotly
+scikit-learn
+statsmodels
+numpy
+pyngrok
+redis
+aioredis
